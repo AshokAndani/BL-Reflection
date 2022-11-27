@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb6ba2a0-a6a7-4da5-9012-3c002705490f": {
+      "ProjectGuid": "eb6ba2a0-a6a7-4da5-9012-3c002705490f",
+      "DisplayName": "Reflection",
+      "ColorIndex": 0
+    },
+    "120e61b2-7c35-4cbe-8acb-975a790f431a": {
+      "ProjectGuid": "120e61b2-7c35-4cbe-8acb-975a790f431a",
+      "DisplayName": "TestProject",
+      "ColorIndex": 1
+    },
+    "32f7a53f-a9ed-4f77-ad21-c28b2c20dacf": {
+      "ProjectGuid": "32f7a53f-a9ed-4f77-ad21-c28b2c20dacf",
+      "DisplayName": "ReflectionSource",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
